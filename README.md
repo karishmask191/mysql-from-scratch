@@ -10,7 +10,7 @@
 -    '03_groupby_having.sql'     | COUNT, SUM, GROUP BY, HAVING                        |
 -    '04_subqueries.sql'         | Subqueries in SELECT, WHERE, and FROM               |
 -    '05_create_alter_drop.sql'  | Table creation, altering, dropping                  |
--    '6_constraints.sql'         | PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE, DEFAULT |
+-    '06_constraints.sql'         | PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE, DEFAULT|
 -    '07_normalization_notes.md' | Simple notes on 1NF, 2NF, 3NF                       |
 -    '08_sample_data.sql'        | Sample employee + department data                   |
 
