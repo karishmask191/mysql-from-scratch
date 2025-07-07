@@ -3,7 +3,6 @@
 - It includes theory notes, practical `.sql` files, and sample data.
 
 # Topics Covered
--          File Name             | Description                                         |
 
 -    '00_intro_to_sql.md'        | Intro to database, RDBMS, SQL, and command types    |
 -    '01_select_where.sql'       | SELECT, WHERE, ORDER BY, LIMIT                      |
