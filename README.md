@@ -3,17 +3,17 @@
 - It includes theory notes, practical `.sql` files, and sample data.
 
 # Topics Covered
--          File Name           | Description                                         |
+-          File Name             | Description                                         |
 
--  '00_intro_to_sql.md'        | Intro to database, RDBMS, SQL, and command types    |
--  '01_select_where.sql'       | SELECT, WHERE, ORDER BY, LIMIT                      |
--  '02_joins.sql'              | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN  |
--  '03_groupby_having.sql'     | COUNT, SUM, GROUP BY, HAVING                        |
--  '04_subqueries.sql'         | Subqueries in SELECT, WHERE, and FROM               |
--  '05_create_alter_drop.sql'  | Table creation, altering, dropping                  |
--  '6_constraints.sql'         | PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE, DEFAULT |
--  '07_normalization_notes.md' | Simple notes on 1NF, 2NF, 3NF                       |
--  '08_sample_data.sql'        | Sample employee + department data                   |
+-    '00_intro_to_sql.md'        | Intro to database, RDBMS, SQL, and command types    |
+-    '01_select_where.sql'       | SELECT, WHERE, ORDER BY, LIMIT                      |
+-    '02_joins.sql'              | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN  |
+-    '03_groupby_having.sql'     | COUNT, SUM, GROUP BY, HAVING                        |
+-    '04_subqueries.sql'         | Subqueries in SELECT, WHERE, and FROM               |
+-    '05_create_alter_drop.sql'  | Table creation, altering, dropping                  |
+-    '6_constraints.sql'         | PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE, DEFAULT |
+-    '07_normalization_notes.md' | Simple notes on 1NF, 2NF, 3NF                       |
+-    '08_sample_data.sql'        | Sample employee + department data                   |
 
 # How to Use This Repo
 1. Clone or download this repository
@@ -26,7 +26,7 @@
 - MySQL Workbench
 - DB Fiddle
 - GitHub
-- 
+  
 # Author
 Shaik Karishma 
 📧 karishmask191@gmail.com  
