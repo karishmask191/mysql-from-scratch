@@ -11,9 +11,9 @@ A: **SQL (Structured Query Language)** is the standard language used to:
 - Create and modify database structure
 - Insert, update, delete, or retrieve data
 
- => SQL Command Categories
+=> SQL Command Categories
 
-|  Type | Full Form                    | Purpose   | Commands                          |
+0. Type | Full Form                    | Purpose   | Commands                          |
 1. DDL  | Data Definition Language     | Structure | `CREATE`, `ALTER`, `DROP`         |
 2. DML  | Data Manipulation Language   | Data      | `INSERT`, `UPDATE`, `DELETE`      |
 3. DQL  | Data Query Language          | View      | `SELECT`                          |
