@@ -1,12 +1,12 @@
-=> mysql-from-scratch
--This repository is a beginner-friendly, structured journey to learning MySQL.  
--It includes theory notes, practical `.sql` files, and sample data.
+# mysql-from-scratch
+- This repository is a beginner-friendly, structured journey to learning MySQL.  
+- It includes theory notes, practical `.sql` files, and sample data.
 
 # Topics Covered
-| File | Description |
+- File | Description |
 
-| `00_intro_to_sql.md`        | Intro to database, RDBMS, SQL, and command types |
-| `01_select_where.sql`       | SELECT, WHERE, ORDER BY, LIMIT |
+-  `00_intro_to_sql.md`        | Intro to database, RDBMS, SQL, and command types |
+-  01_select_where.sql`       | SELECT, WHERE, ORDER BY, LIMIT |
 | `02_joins.sql`              | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN |
 | `03_groupby_having.sql`     | COUNT, SUM, GROUP BY, HAVING |
 | `04_subqueries.sql`         | Subqueries in SELECT, WHERE, and FROM |
