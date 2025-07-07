@@ -14,9 +14,8 @@ A: **SQL (Structured Query Language)** is the standard language used to:
  => SQL Command Categories
 
 |  Type | Full Form                    | Purpose   | Commands                          |
-|--------------------------------------------------------------------------------------|
-|  DDL  | Data Definition Language     | Structure | `CREATE`, `ALTER`, `DROP`         |
-|  DML  | Data Manipulation Language   | Data      | `INSERT`, `UPDATE`, `DELETE`      |
-|  DQL  | Data Query Language          | View      | `SELECT`                          |
-|  DCL  | Data Control Language        | Access    | `GRANT`, `REVOKE`                 |
-|  TCL  | Transaction Control Language | Save/Undo | `COMMIT`, `ROLLBACK`, `SAVEPOINT` |
+1. DDL  | Data Definition Language     | Structure | `CREATE`, `ALTER`, `DROP`         |
+2. DML  | Data Manipulation Language   | Data      | `INSERT`, `UPDATE`, `DELETE`      |
+3. DQL  | Data Query Language          | View      | `SELECT`                          |
+4. DCL  | Data Control Language        | Access    | `GRANT`, `REVOKE`                 |
+5. TCL  | Transaction Control Language | Save/Undo | `COMMIT`, `ROLLBACK`, `SAVEPOINT` |
