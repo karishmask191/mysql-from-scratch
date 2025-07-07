@@ -1,5 +1,4 @@
--- 01_select_where.sql
-- Basic SELECT and WHERE queries
+=> Basic SELECT and WHERE queries
 
 -- 1. Select all data from a table
 SELECT * FROM employees;
